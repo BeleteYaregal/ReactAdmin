@@ -1,0 +1,96 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post One",
+      "body": "This is the post one body",
+      "publishedAt": "2020-11-26"
+    },
+    {
+      "id": "2",
+      "title": "Post Two",
+      "body": "This is the post Two body",
+      "publishedAt": "2020-11-26"
+    },
+    {
+      "id": "3",
+      "title": "Post Three",
+      "body": "This is the post Three body",
+      "publishedAt": "2020-11-26"
+    },
+    {
+      "title": "Post Four",
+      "body": "This is the post Four body",
+      "publishedAt": "2020-11-27",
+      "id": "MXkOLTC"
+    },
+    {
+      "title": "Post Five",
+      "body": "This is the body of post five.",
+      "id": "7MHFHeP",
+      "publishedAt": "2020-11-28"
+    },
+    {
+      "title": "Post Five",
+      "body": "This is the body of post five.",
+      "publishedAt": "2020-11-12",
+      "id": "w2_ogfI"
+    },
+    {
+      "title": "Contributions",
+      "body": "Contributions are always welcome, no matter how large or small. Before contributing, please read the code of conduct.",
+      "publishedAt": "2020-11-24",
+      "id": "_UJhe4b"
+    },
+    {
+      "title": "Post Delete2",
+      "body": "body",
+      "publishedAt": "2020-12-01",
+      "id": "UMdEDNA"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Belete Yaregal",
+      "email": "bele@gmail.com",
+      "password": "bele@123"
+    },
+    {
+      "password": "tade@123",
+      "name": "Tadesse",
+      "email": "tadesse@gmail.com",
+      "id": "j0foW2i"
+    },
+    {
+      "name": "Abel",
+      "email": "abe@gmail.com",
+      "password": "cfedYaHk9Ds",
+      "id": "s1zvrpD"
+    },
+    {
+      "name": "Belete",
+      "email": "beleteyaregal23@gmail.com",
+      "password": "cfedYaHk9Ds",
+      "id": "EhvpYlC"
+    },
+    {
+      "name": "Belete Yaregal",
+      "email": "beleteyaregal23@gmail.com",
+      "password": "cfedYaHk9D",
+      "id": "8GRqcO4"
+    },
+    {
+      "name": "Belete Yaregal2",
+      "email": "beleteyaregal23@gmail.com",
+      "password": "beleteiscool",
+      "id": "uH2gm2F"
+    },
+    {
+      "name": "Bele",
+      "password": "cfedYaHk9D",
+      "email": "beleteyaregal123@gmail.com",
+      "id": "h2B0GhX"
+    }
+  ]
+}
